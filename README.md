@@ -1,0 +1,1 @@
+# cpuminer-gw64-corei7.exe
